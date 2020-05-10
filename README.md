@@ -1,6 +1,10 @@
-# sembast_task_crud
+# Flutter Sembast Task CRUD
 
-A new Flutter project.
+A Simple Task App using SEMBAST project to store local data.
+
+### Dependencies
+- [path_provider 1.6.7] (https://pub.dev/packages/path_provider)
+- [sembast 2.4.3] (https://pub.dev/packages/sembast)
 
 ## Getting Started
 
